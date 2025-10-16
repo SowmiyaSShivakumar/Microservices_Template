@@ -1,0 +1,25 @@
+Medical Report
+Patient Information
+Name: John Doe
+Age: 45
+Gender: Male
+Date of Birth: 1979-04-15
+Patient ID: 123456789
+Report Date: 2025-06-16
+Diagnosis
+The patient presents with complaints of persistent cough and shortness of breath. A chest X-ray and CT scan were performed.
+Findings are consistent with early-stage Chronic Obstructive Pulmonary Disease (COPD). No signs of acute infection or malignancy.
+Test Results
+1. Chest X-ray: Mild hyperinflation of lungs observed.
+2. CT Chest: Evidence of emphysematous changes, no masses detected.
+3. Pulmonary Function Test (PFT): FEV1/FVC ratio below normal.
+4. Blood Pressure: 130/85 mmHg
+5. Heart Rate: 78 bpm
+Page 1
+Medical Report
+Recommendations
+- Start bronchodilator therapy (inhaled beta-agonists and anticholinergics).
+- Avoid exposure to dust, smoke, and other pollutants.
+- Encourage smoking cessation if applicable.
+- Schedule follow-up in 3 months for re-evaluation.
+Page 2
